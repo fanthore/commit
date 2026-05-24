@@ -1,12 +1,3 @@
-   H H EEE L   L   OOO 
-   HHH E   L   L   O O 
-   H H EEE LLL LLL OOO 
-   
-   W W OOO RRR L   DD  
-   WWW O O RR  L   D D 
-   WWW OOO R R LLL DDD 
-   
-
 # **Commits as pixels**
 
 ~Following that one social media post about a recruiter hiring someone sollely based on their Github activity... and coders reacting by saying they would implement a crontab to daily commit to GitHub
@@ -88,4 +79,4 @@ message="Hello World"
 ``` sed -i '/^start_date=/d' README.md
 git commit -am "reset timeline"```
 
-start_date="2026-05-15"
+start_date="2026-05-24"
